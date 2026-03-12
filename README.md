@@ -32,6 +32,11 @@ _Based on [jrowberg/i2cdevlib](https://github.com/jrowberg/i2cdevlib/tree/master
 ## Quick Installing
 To install, use the [Arduino Library Manager](https://support.arduino.cc/hc/en-us/articles/5145457742236-Add-libraries-to-Arduino-IDE) and search for "MPU6050" and install the MPU6050 by Electronic Cats library.
 
+## Getting Started
+See the [documentation](https://github.com/ElectronicCats/mpu6050/wiki) for details on how to use this library.
+
+Example code can be found in the [/examples](https://github.com/ElectronicCats/mpu6050/tree/master/examples) directory.
+
 ## How to contribute <img src="https://electroniccats.com/wp-content/uploads/2018/01/fav.png" height="35"><img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="30">
  Contributions are welcome! 
 
